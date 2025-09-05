@@ -1,0 +1,9 @@
+﻿@page "/home"
+@* Redirect to Kanban board *@
+@code {
+	protected override void OnInitialized()
+	{
+		NavigationManager.NavigateTo("/");
+	}
+	[Inject] NavigationManager NavigationManager { get; set; } = default!;
+}

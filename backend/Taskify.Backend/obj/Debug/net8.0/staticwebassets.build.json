@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nccN3G7xGYIAfClvvAiQ2qYvIhrEwsbEXJHhosWVKBI=",
+  "Source": "Taskify.Backend",
+  "BasePath": "_content/Taskify.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
